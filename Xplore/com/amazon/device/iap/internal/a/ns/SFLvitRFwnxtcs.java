@@ -1,0 +1,58 @@
+package com.amazon.device.iap.internal.a.ns;
+
+/* JADX INFO: loaded from: classes2.dex */
+public class SFLvitRFwnxtcs {
+    public static String BHtIoTXUyK;
+    public static String CIhwppSFJ;
+    public static String DPARdIzNzRt;
+    public static String DWLxXnfLjGOxEY;
+    public static String GDUQsPCNsfmLONw;
+    public static String IXKXvoeDz;
+    public static String JEKEMFBtwCuymI;
+    public static String JuLLCZwxkXGzjNu;
+    public static String KfieipqOBW;
+    public static String MWEACda;
+    public static String MgoGZGdzsYOQQGb;
+    public static String MjTRwTbEf;
+    public static String OqXxXrPNbJpgP;
+    public static String PHf;
+    public static String SZBcphziqs;
+    public static String SunmlKZmpEunO;
+    public static String TNeEOIIxI;
+    public static String TYZkgOZc;
+    public static String VVUT;
+    public static String VfYZPxYIcRIgpC;
+    public static String Vlegg;
+    public static String VxqN;
+    public static String ZVLwkpq;
+    public static String aNgWgBpvRoa;
+    public static String bxwWNCNNTX;
+    public static String cRUK;
+    public static String dKMLu;
+    public static String eEQUOHYdTjXfp;
+    public static String fMTLUUMHQochQ;
+    public static String gjeexVAHXWfQaR;
+    public static String hDcqGdKQNRLup;
+    public static String jqMBRxu;
+    public static String lbggcN;
+    public static String mkbZQ;
+    public static String nEpKVWolEYXz;
+    public static String nQxVyVDF;
+    public static String oDOum;
+    public static String oaskzXVPgie;
+    public static String ouxyBKn;
+    public static String pNCRkKrddK;
+    public static String qcfAlabwAKnUMrn;
+    public static String rTSAuYShGPNFxK;
+    public static String sPfFqRSxA;
+    public static String skDsHFA;
+    public static String tVRFpoXWzIEZ;
+    public static String uSEOABcphWJaVhS;
+    public static String uhxKHVExLRdRG;
+    public static String umpeMQoJOaR;
+    public static String upBQARxlXWUJxit;
+    public static String uszXpYH;
+    public static String wiRIFGNnd;
+    public static String yWJMcXjGTLgZ;
+    public static String zKLgFXBFxpVt;
+}
